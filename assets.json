@@ -1,9 +1,13 @@
 {
-  "vendors.css": "/beast-lib/static/css/vendors.e03f7ca23574d5ccaec4.css",
-  "vendors.js": "/beast-lib/static/js/vendors.f75b35a2.js",
-  "app.js": "/beast-lib/static/js/app.e03f7ca23574d5ccaec4.js",
-  "index.js": "/beast-lib/static/js/index.12eb8102.js",
-  "src-components-button-index.css": "/beast-lib/static/css/src-components-button-index.e03f7ca23574d5ccaec4.css",
-  "src-components-button-index.js": "/beast-lib/static/js/src-components-button-index.360b7c3f.js",
+  "vendors.css": "/beast-lib/static/css/vendors.e95bf59b51f20c5ca6e8.css",
+  "vendors.js": "/beast-lib/static/js/vendors.ec1ceaa3.js",
+  "app.js": "/beast-lib/static/js/app.e95bf59b51f20c5ca6e8.js",
+  "index.js": "/beast-lib/static/js/index.9f7abc37.js",
+  "src-components-button-index.css": "/beast-lib/static/css/src-components-button-index.e95bf59b51f20c5ca6e8.css",
+  "src-components-button-index.js": "/beast-lib/static/js/src-components-button-index.23a30cbf.js",
+  "src-components-icon-index.css": "/beast-lib/static/css/src-components-icon-index.e95bf59b51f20c5ca6e8.css",
+  "src-components-icon-index.js": "/beast-lib/static/js/src-components-icon-index.59b862bd.js",
+  "src-components-typography-index.css": "/beast-lib/static/css/src-components-typography-index.e95bf59b51f20c5ca6e8.css",
+  "src-components-typography-index.js": "/beast-lib/static/js/src-components-typography-index.205de291.js",
   "index.html": "/beast-lib/index.html"
 }
